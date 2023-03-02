@@ -1,0 +1,45 @@
+header{
+    background-color: black;
+}
+.mb-3{
+text-align: center;
+}
+.container{
+    margin-top: 9%;
+
+}
+button{
+    font-family: 'Vollkorn';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    /* identical to box height, or 129% */
+    
+    text-align: center;
+    color: #8BCAC3;
+}
+p{
+    font-family: 'Vollkorn';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    /* identical to box height, or 129% */
+    
+    text-align: center;
+    color: aliceblue;   
+}
+label{
+    font-family: 'Vollkorn';
+font-style: italic;
+font-weight: 400;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+
+text-align: center;
+
+
+
+}
